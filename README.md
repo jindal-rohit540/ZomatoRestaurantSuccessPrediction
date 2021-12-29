@@ -12,7 +12,6 @@
   
  # Features Worked Upon 
   
-**
 1. url: contains the url of the restaurant in the zomato website
 2. address: contains the address of the restaurant in Bengaluru
 3. name: contains the name of the restaurant
@@ -23,4 +22,4 @@
 8. phone: contains the phone number of the restaurant
 9. location: contains the neighborhood in which the restaurant is located
 10. rest-type: restaurant type.
-                **
+                
