@@ -1,5 +1,9 @@
-# ZomatoRestaurantSuccessPrediction
+# Success PRediction of a Zomato Restaurant
 
-## VISHAL
-
-#### RITESH
+## Predicting the Success of a Restaurant 
+  ### Target Definition 
+  ### Feature Extraction
+  ### Encoding 
+  ### Training a Model 
+  ### Predictions 
+  ### Accuracy
