@@ -1,4 +1,4 @@
-# Success PRediction of a Zomato Restaurant
+# Success Prediction of a Zomato Restaurant
 
 ## Predicting the Success of a Restaurant 
   ### Target Definition 
