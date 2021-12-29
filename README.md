@@ -1,6 +1,6 @@
 # Success Prediction of a Zomato Restaurant
 
-## Predicting the Success of a Restaurant 
+## High Level Overview (Steps)
   ### Target Definition 
   ### Feature Extraction
   ### Encoding 
